@@ -1,0 +1,30 @@
+_repo: Tales-of-a-Poultry-Farm_41966
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41966-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pierson, Clara Dillingham
+    gutenberg_agent_id: '8634'
+    url: http://www.gutenberg.org/2009/agents/8634
+description: ''
+gutenberg_issued: '2013-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Parent and child -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Poultry -- Juvenile fiction'
+- !lcsh 'Farmers -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+title: Tales of a Poultry Farm
+url: http://www.gutenberg.org/ebooks/41966
