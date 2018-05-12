@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8634'
     url: http://www.gutenberg.org/2009/agents/8634
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41966#Tales-of-a-Poultry-Farm
 gutenberg_issued: '2013-02-02'
 gutenberg_type: Text
 identifiers:
